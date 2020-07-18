@@ -94,6 +94,7 @@ p{
     margin: 10px 0;
 }
 
+/* Navigation bar */
 #navbar{
     background-color: #333;
     overflow:auto;
@@ -130,6 +131,8 @@ p{
 
 }
 
+
+/*Showcase content */
 #showcase{
     background:url('../img/showcase.jpg') no-repeat center center/cover;
     height:600px;
@@ -188,6 +191,7 @@ p{
 .box i{
     margin-bottom: 10px;
 }
+
 /* About */
 #about-info .info-right{
     float:right;
@@ -207,6 +211,9 @@ p{
      width:50%;
      min-height:100%;
  }
+
+
+/*Testimonials*/
 
  #testimonials{
      height:600px;
@@ -234,6 +241,8 @@ p{
     opacity:0.9;
 }
 
+/* Contact */
+
 #contact-form .form-group {
     margin-bottom: 20px;
 }
@@ -260,6 +269,8 @@ border: 1px #ddd solid;
 #contact-form textarea{
     height:200px;
 }
+
+/*Footer*/
 
 #main-footer{
     text-align:center;
