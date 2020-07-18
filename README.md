@@ -1,2 +1,2 @@
-# website1
+# Hotel
 My first static hotel website
